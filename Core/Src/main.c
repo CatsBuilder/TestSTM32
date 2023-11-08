@@ -228,7 +228,7 @@ static void MX_ADC4_Init(void)
   }
   /* USER CODE BEGIN ADC4_Init 2 */
 
-  HAL_ADC_Start_IT(&hadc4);
+  //HAL_ADC_Start_IT(&hadc4);
   /* USER CODE END ADC4_Init 2 */
 
 }
